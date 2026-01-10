@@ -1,4 +1,4 @@
-# Repositório para estudos [Git e Github] teste
+# Repositório para estudos [Git e Github]
 
 ## Inicialização
 **git init**  
