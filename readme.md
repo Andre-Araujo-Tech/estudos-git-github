@@ -120,34 +120,34 @@ As tags são utilizadas para marcar versões importantes do projeto, como releas
 
 ## 📚 Glossário Git & GitHub
 
-**Commit**  
+**->Commit**  
 Registro permanente de uma alteração no repositório. Cada commit representa um ponto específico da evolução do projeto, contendo autor, data e mensagem descritiva.
 
-**Branch**  
+**->Branch**  
 Linha de desenvolvimento independente dentro do repositório. Permite criar, testar e evoluir funcionalidades sem impactar diretamente o código principal.
 
-**Merge**  
+**->Merge**  
 Processo de integrar alterações de uma branch em outra, normalmente trazendo uma funcionalidade finalizada para a branch principal (`main`).
 
-**Fork**  
+**->Fork**  
 Cópia completa de um repositório para outra conta no GitHub. Muito usado em projetos open source para contribuir sem alterar diretamente o repositório original.
 
-**Pull Request (PR)**  
+**->Pull Request (PR)**  
 Solicitação formal para que alterações feitas em uma branch ou fork sejam revisadas, discutidas e integradas ao projeto principal.
 
-**Tag**  
+**->Tag**  
 Marcador aplicado a um commit específico, geralmente usado para identificar versões estáveis do projeto (ex: `v1.0.0`).
 
-**Gist**  
+**->Gist**  
 Pequeno repositório do GitHub usado para compartilhar trechos de código, scripts ou anotações de forma rápida.
 
-**Release**  
+**->Release**  
 Versão oficial do projeto no GitHub, normalmente associada a uma tag, contendo descrição das mudanças e arquivos para download.
 
-**Issue**  
+**->Issue**  
 Registro de problemas, bugs, melhorias ou tarefas. Serve como ferramenta de organização e comunicação dentro do projeto.
 
-**Wiki**  
+**->Wiki**  
 Área dedicada à documentação do repositório, ideal para guias, tutoriais, padrões e informações técnicas detalhadas.
 
 ---
@@ -182,12 +182,3 @@ Registro de problemas, bugs, melhorias ou tarefas. Serve como ferramenta de orga
   Protocolo usado para autenticação e gerenciamento de usuários em diretórios corporativos. Pode ser integrado a plataformas internas para controle de permissões.
 
 ---
-
-## 👨‍💻 Autor
-
-**André Araújo**  
-Estudante de desenvolvimento Front-end, com foco em boas práticas, organização de código e versionamento com Git/GitHub.
-
----
-
-📌 *Este repositório faz parte do meu processo de aprendizado e evolução como desenvolvedor.*
